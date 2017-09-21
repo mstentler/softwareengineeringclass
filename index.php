@@ -110,7 +110,7 @@
         <!--/.Card-->
 
         <div>
-          <p><a class="btn btn-secondary" href="#" role="button">Sign Up Now!</a></p>
+          <p style="padding: 20px 0px;  width: 200px; margin: auto;"><a class="btn btn-secondary" href="#" role="button">Sign Up Now!</a></p>
       </div>
         
 
